@@ -169,6 +169,7 @@ h2 {
 
 /* Button */
 .button {
+    font-family: Roboto, sans-serif;
     width: 200px;
     height: 50px;
 
